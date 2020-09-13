@@ -14,9 +14,9 @@ navbar:
     - icon: fa-envelope fa-lg
       href: contato.html
     - icon: fa-github fa-lg
-      href: github.com/ArthurLimaMiranda
+      href: https://github.com/ArthurLimaMiranda
     - icon: fa-instagram fa-lg
-      href: instagram.com/capaldi_lima_/
+      href: https://www.instagram.com/capaldi_lima_/?hl=pt-br
       
 output:
   html_document:
