@@ -1,0 +1,12 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+Trablhos de pesquisa
+
+<h5>
+2019 - 2020: Aluno pesquisador trabalhando nos óculos sensoriais pelo projeto Synesthesia Vision.
+
+
+2020 - Atualmente: Aluno pesquisador trabalhando nos óculos sensoriais pelo projeto OPPA (Observatório de Políticas e Gastos Públicos Ambientais).

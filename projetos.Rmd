@@ -1,0 +1,15 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+Projetos educacionais
+
+<h5>
+2017 - 2018: Intergrante da equipe de robótica Eagles Robotics.
+
+
+2018: Produção do projeto de programação em linguagem java com objetivo de gerar e editar horários de aula para os professors do IFPE. Mais informações de código [aqui](https://github.com/ArthurLimaMiranda/ProjetoClassesManagement).
+
+
+2019: Produção do projeto de programação e hardware voltado para educação, em linguagem C, com objetivo de desenvolver um Módulo Didático de um Retificador Trifásico de Meia Onda Microcontrolado. Mais informações de código e projeto [aqui](https://github.com/ArthurLimaMiranda/ProjetoRetificador).

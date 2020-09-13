@@ -1,0 +1,24 @@
+name: "Arthur Lima de A. Miranda"
+output_dir: "."
+navbar:
+  title: "Arthur Lima A. Miranda"
+  left:
+    - text: "Pesquisas"
+      href: projetos.html
+    - text: "Projetos"
+      href: pesquisas.html  
+    - text: "Formação"
+      href: formacao.html
+
+  right:
+    - icon: fa-envelope fa-lg
+      href: contato.html
+    - icon: fa-github fa-lg
+      href: github.com/ArthurLimaMiranda
+    - icon: fa-instagram fa-lg
+      href: instagram.com/capaldi_lima_/
+      
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
