@@ -1,0 +1,9 @@
+Package: mysite
+Title: It's just my site.
+Version: 0.1
+Authors@R: person("Arthur", "Lima", email = "alam@discente.ifpe.edu.br",
+                  role = c("aut", "cre"))
+Description: My beautiful website.
+Depends: R (>= 3.1.0)
+License: GPL (>= 2)
+LazyData: true
