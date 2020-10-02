@@ -1,5 +1,5 @@
 Package: mysite
-Title: It's just my site.
+Title: It's just my website.
 Version: 0.1
 Authors@R: person("Arthur", "Lima", email = "alam@discente.ifpe.edu.br",
                   role = c("aut", "cre"))
