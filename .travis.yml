@@ -3,14 +3,14 @@
 language: R
 R:
   - 4.0.2
-cache: packages
+cache: false
 
 install:
 
 script:
 
 deploy:
-  provider: packages
+  provider: pages:git
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
   on:
