@@ -1,17 +1,3 @@
-# R for travis: see documentation at https://docs.travis-ci.com/user/languages/r
-
-language: R
-R:
-  - 4.0.2
-cache: false
-
-install:
-
-script:
-
-deploy:
-  provider: pages:git
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN
-  on:
-    branch: mudancas
+language: r
+sudo: false
+cache: packages
