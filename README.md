@@ -1,2 +1,2 @@
 # ArthurLimaMiranda.github.io
-This is my personal Website
+This was my personal Website (deprecated)
